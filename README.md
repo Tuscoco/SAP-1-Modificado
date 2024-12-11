@@ -17,7 +17,7 @@ O projeto funciona com as microinstruções sendo armazenadas em uma ROM (Read-O
 ## Vídeo Demonstrativo
 <p align="center">
 	<a href="">
-		<img src="https://img.youtube.com/vi/bnCJoAbZbGE/maxresdefault.jpg" width="500" alt="SAP-1 Turbo - AC1">
+		<img src="https://www.revista-programar.info/wp-content/uploads/2015/06/sap-1.png" width="500" alt="SAP-1 Turbo - AC1">
 	</a>
 </p>
 
